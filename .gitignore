@@ -1,8 +1,1 @@
-*.o
-*.out
-*.exe
-*.a
-*.so
-*.bin
-*.swp
-.DS_Store
+.vscode
